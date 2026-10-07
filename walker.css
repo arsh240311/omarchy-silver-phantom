@@ -1,0 +1,20 @@
+/* Omarchy Silver Phantom - Walker Spotlight Launcher */
+#window {
+    background: rgba(9, 10, 15, 0.94);
+    border: 2px solid rgba(216, 219, 230, 0.6);
+    border-radius: 12px;
+    box-shadow: 0 16px 32px rgba(0, 0, 0, 0.9);
+}
+
+#search {
+    background: #14161f;
+    color: #f5f6fa;
+    border: 1px solid #303544;
+    border-radius: 8px;
+}
+
+#item:selected {
+    background: #20232c;
+    color: #ffffff;
+    border-left: 3px solid #d8dbe6;
+}

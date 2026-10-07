@@ -1,0 +1,32 @@
+mode = "dark"
+
+accent = "#d8dbe6"
+selection = "#20232c"
+muted = "#5d6274"
+
+background = "#090a0f"
+dark_background = "#06070a"
+darker_background = "#040406"
+lighter_background = "#14161f"
+
+foreground = "#e6e8f2"
+dark_foreground = "#5d6274"
+light_foreground = "#f5f6fa"
+bright_foreground = "#ffffff"
+
+# Pure Dual-Tone Grayscale & Titanium Scale (Zero Rainbow RGB)
+red = "#b0b4c3"
+yellow = "#d0d4e4"
+orange = "#9ea3b5"
+green = "#c5cad9"
+cyan = "#e0e3ee"
+blue = "#8c92a4"
+magenta = "#b8bccb"
+brown = "#707585"
+
+bright_red = "#c8ccd8"
+bright_yellow = "#e8ebf5"
+bright_green = "#d8dce8"
+bright_cyan = "#ffffff"
+bright_blue = "#a2a8b8"
+bright_magenta = "#ccd0de"

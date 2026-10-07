@@ -1,0 +1,10 @@
+/* Omarchy Silver Phantom - Obsidian Theme */
+.theme-dark {
+    --background-primary: #090a0f;
+    --background-secondary: #06070a;
+    --background-modifier-border: #20232c;
+    --text-normal: #e6e8f2;
+    --text-muted: #606575;
+    --text-accent: #d8dbe6;
+    --interactive-accent: #d8dbe6;
+}
