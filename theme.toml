@@ -1,0 +1,36 @@
+# Omarchy Silver Phantom Theme Definition
+# Pure Silver-Black Dual-Tone Stealth Showroom Theme
+
+[meta]
+name = "Silver Phantom"
+author = "arsh240311"
+variant = "dark"
+
+[colors]
+bg_primary    = "#090a0f"   # Pitch Obsidian Void
+bg_secondary  = "#14161f"   # Deep Charcoal Slate
+bg_floating   = "#20232c"   # Elevated floating popups & menus
+
+fg_primary    = "#e6e8f2"   # Liquid Titanium Silver
+fg_secondary  = "#a2a8b8"   # Steel Slate
+fg_dim        = "#5d6274"   # Muted Details
+
+accent_amber  = "#d8dbe6"   # Liquid Chrome Silver Accent
+accent_cyan   = "#e0e3ee"   # Pure Chrome White
+accent_peach  = "#b8bccb"   # Brushed Titanium
+accent_sage   = "#c5cad9"   # Platinum Silver
+accent_lavender = "#8c92a4" # Deep Gunmetal Silver
+
+[hyprland]
+border_active   = "rgba(e6e8f2cc) rgba(5d627466) 45deg"
+border_inactive = "rgba(14161f88)"
+border_width    = 2
+gaps_in         = 6
+gaps_out        = 12
+rounding        = 8
+
+[bar]
+position = "left"
+background = "#090a0fe6"
+accent = "#d8dbe6"
+text = "#e6e8f2"
