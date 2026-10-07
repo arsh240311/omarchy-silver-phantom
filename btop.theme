@@ -8,36 +8,64 @@ theme[hi_fg]="#d8dbe6"
 theme[selected_bg]="#20232c"
 theme[selected_fg]="#ffffff"
 theme[inactive_fg]="#5d6274"
-theme[graph_text]="#c5cad9"
-theme[meter_bg_delay]="#14161f"
-theme[proc_misc]="#8c92a4"
-theme[cpu_box]="#303544"
-theme[mem_box]="#303544"
-theme[net_box]="#303544"
-theme[proc_box]="#303544"
+theme[graph_text]="#a2a8b8"
+theme[meter_bg]="#14161f"
+theme[proc_misc]="#d8dbe6"
+
+# Box outlines: Razor titanium and silver
+theme[cpu_box]="#d8dbe6"
+theme[mem_box]="#a2a8b8"
+theme[net_box]="#b0b4c3"
+theme[proc_box]="#e6e8f2"
 theme[div_line]="#20232c"
 
-theme[temp_start]="#606575"
-theme[temp_mid]="#a2a8b8"
-theme[temp_end]="#e6e8f2"
+# Temperature: Deep Titanium -> Polished Steel -> White Hot
+theme[temp_start]="#5d6274"
+theme[temp_mid]="#b0b4c3"
+theme[temp_end]="#ffffff"
 
+# CPU graph: Dual-tone Silver to Pure Chrome White
 theme[cpu_start]="#5d6274"
-theme[cpu_mid]="#9ea3b5"
-theme[cpu_end]="#e8ebf5"
+theme[cpu_mid]="#a2a8b8"
+theme[cpu_end]="#ffffff"
 
-theme[free]="#5d6274"
-theme[cached]="#8c92a4"
-theme[available]="#b0b4c3"
-theme[used]="#e6e8f2"
+# Memory & disk meters
+theme[free_start]="#404554"
+theme[free_mid]="#8c92a4"
+theme[free_end]="#d8dbe6"
 
+theme[cached_start]="#5d6274"
+theme[cached_mid]="#a2a8b8"
+theme[cached_end]="#e6e8f2"
+
+theme[available_start]="#404554"
+theme[available_mid]="#8c92a4"
+theme[available_end]="#d8dbe6"
+
+theme[used_start]="#5d6274"
+theme[used_mid]="#b0b4c3"
+theme[used_end]="#ffffff"
+
+# Download / Upload network graphs
 theme[download_start]="#404554"
 theme[download_mid]="#8c92a4"
 theme[download_end]="#d8dbe6"
 
-theme[upload_start]="#404554"
-theme[upload_mid]="#8c92a4"
-theme[upload_end]="#d8dbe6"
+theme[upload_start]="#5d6274"
+theme[upload_mid]="#a2a8b8"
+theme[upload_end]="#ffffff"
 
+# Process box
 theme[process_start]="#5d6274"
 theme[process_mid]="#a2a8b8"
 theme[process_end]="#ffffff"
+
+# Gradients (Titanium Monochrome)
+theme[gradient_color_0]="#090a0f"
+theme[gradient_color_1]="#14161f"
+theme[gradient_color_2]="#20232c"
+theme[gradient_color_3]="#404554"
+theme[gradient_color_4]="#5d6274"
+theme[gradient_color_5]="#8c92a4"
+theme[gradient_color_6]="#d8dbe6"
+theme[gradient_color_7]="#ffffff"
